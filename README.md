@@ -27,4 +27,8 @@ Further help
 To get more help on the Angular CLI use ng help or go check out the Angular CLI Overview and Command Reference page.
 
 
+![image](https://github.com/edudias1972/DIO-ANGULARBlog/assets/80340034/514dabad-0e7e-4555-a22e-0c28fe913b34) 
+
+![image](https://github.com/edudias1972/DIO-ANGULARBlog/assets/80340034/cb5ec34a-bf62-434e-bcc5-54dd7afa3f46)
+
 
