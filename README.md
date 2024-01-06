@@ -1,5 +1,5 @@
 ![image](https://github.com/edudias1972/DIO-ANGULARBlog/assets/80340034/b4928354-1209-41ca-b583-6bf5eaa74b7d)# DIO-ANGULARBlog
-ANGULAR projeto BLOG 
+ANGULAR projeto BLOG - 06-01-2024 
 
 DESCRIÇÃO
 Crie uma aplicação de blog funcional, construa componentes inteligentes e aprenda como organizar 
