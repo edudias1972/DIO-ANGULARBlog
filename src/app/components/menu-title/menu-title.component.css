@@ -1,0 +1,20 @@
+.container_title-menu {
+  color: #ffffff;
+}
+.container_title-menu > h1 {
+  margin-top: 10px;
+  margin-bottom: 15px;
+  font-size:800px;
+  font-weight: "SEGOE IU";
+  display:flex;
+  color: #ffffff;
+  justify-content: center;
+}
+h1{
+  text-align: center;
+}
+
+.container_title-menu > hr {
+  margin-top:20px;
+  margin-bottom: 5px;
+}

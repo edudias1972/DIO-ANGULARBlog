@@ -1,0 +1,7 @@
+@media screen and(max-width:600) {
+  .big-card__title > h1 > a {
+    margin-top: 15%;
+    font-size: 5px;
+   
+  }
+}
